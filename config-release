@@ -1,0 +1,9 @@
+default-ip : auto
+default-port : auto
+default-image-converter : im
+directory-public-virtual : /client/
+directory-public : /public/
+allow-compile-script : false
+allow-compile-html : false
+allow-compile-css : false
+allow-gzip : false
